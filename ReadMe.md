@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Engineer & Data Scientist | 🤖 AI & Investment Banking Enthusiast <br><br>🌐 Exploring AI, Computer Vision, and Bot Crafting. Passionate about sharing knowledge on LinkedIn.<br><br>🏀📘 Off-screen: Basketball, Weightlifting, Museums, and Ice Skating.
+👨‍💻 Engineer & Data Scientist | 🤖 AI & Investment Banking Enthusiast <br><br>🌐 Exploring AI, Computer Vision, and Bot Crafting. Passionate about sharing knowledge on LinkedIn.<br><br>🏀📘 Off-screen: Basketball, Weightlifting, Museums, and Ice Skating, Sometimes I read too.
 
 
 ## 🌐 Socials:
