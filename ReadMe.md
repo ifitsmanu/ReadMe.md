@@ -7,7 +7,7 @@
 
 - **Artificial Intelligence**
 - **Computer Vision**
-- - **Robotics**
+- **Robotics**
 - **Bot Crafting**
 - **Investment Banking Technologies**
 
